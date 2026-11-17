@@ -1,0 +1,11 @@
+biopython
+requests
+pandas
+numpy
+scikit-learn
+torch
+fair-esm
+py3Dmol
+jupyter
+matplotlib
+pytest
